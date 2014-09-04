@@ -1,4 +1,4 @@
 pixel-wars-flash
 ================
 
-An implementation of @JaydenDG's Pixel Wars in Flash
+An unfinished implementation of Jayden's (Ava) Pixel Wars game in Flash with flashpunk. Nothing special.
